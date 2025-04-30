@@ -26,9 +26,6 @@ Large language models (LLMs) have shown remarkable capabilities in natural langu
     - `gemma-finetuned-model-inference.ipynb`
     - `gemma-it-finetuned.ipynb`
  
-- You can Try Out My Hugging Face Model from here
-      - https://huggingface.co/Ajayk/indian-history-gemma-instruction-finetuned
-
 ### Dependencies
 
 Install the dependencies using the following command:
