@@ -19,7 +19,7 @@ Large language models (LLMs) have shown remarkable capabilities in natural langu
 ### Usage:
 - clone the repository
 ```bash
-   git clone https://github.com/AjayK47/Gemma-Model-Finetuning-Using-Lora.git
+   git clone https://github.com/shreyajammula/Gemma-Model-Finetuning-Using-Lora.git
    ``` 
 - Run the Jupyter Notebooks in the following order:
     - `dataset-preprocessing.ipynb`
